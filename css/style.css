@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+}
+.navbar p{
+    align-items: center;
+    color: rgb(227, 240, 44);
+    font-size: 30px;
+    background-color: rgb(153, 169, 185);
+}
+.banner {
+   /** background-image: url(../images/16022013037\(1\).jpg);**/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+     width: 100%;
+    height: 400px;
+   /** background-image: url(../images/25th-anniversary-quotes.png);**/
+    background-color: rgb(228, 226, 226);
+    background-size: cover;
+}
+.banner-content img {
+    height: 445px;
+    width: 445px;
+  
+  align-items: initial;
+}
+.container .title img {
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+    
+}
+.container .title  p {
+   justify-content: center;
+font-size: 40px;
+color: rgb(236, 134, 182);
+margin: 30px;
+margin: 50px;
+}
+.container .title h2{
+    font-size: 30px;
+    color:rgb(79, 21, 216) ;
+    margin: 30px;
+margin: 50px;
+}
+ .one{
+    background-color:rgb(228, 231, 235) ;
+}
+.container .one  img{
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+margin-top: 30px;
+margin-bottom: 10px;
+}
+.banner .banner-content .first img {
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+.banner .banner-content .third img {
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+}
+.container .two p {
+    font-size: 30px;
+    font-family: cursive;
+    color: rgb(255, 80, 133);
+    height: 200px;
+   justify-content: center;
+   }
+.photo .last  img {
+    border-radius: 30%;
+    height: 300px;
+    width: 300px;
+   justify-content: center;
+}
+.photo .last p{
+    font-size: 12px;
+    color: rgb(75, 72, 72);
+    margin: 30px;
+}
+.photo .last .img1 img{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+.photo .last .img2 img{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+.photo .last p{
+    font-size: 12px;
+    color: rgb(109, 112, 109);
+    justify-content: center;
+}
